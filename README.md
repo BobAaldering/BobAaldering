@@ -15,37 +15,39 @@ I am currently learning the following:
 
 ### Things I build with - 🚧
 
+I use the following tools within my education or projects:
+
 <p align="center">
   <a href="https://www.jetbrains.com/clion/">
-    <img src="CLion" alt="CLion" style="vertical-align:top; margin:4px">
+    <img src="img/CLION_README_LOGO_BOBAA.png" alt="CLion" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="https://www.jetbrains.com/rider/">
-    <img src="Rider" alt="Rider" style="vertical-align:top; margin:4px">
+    <img src="img/RIDER_README_LOGO_BOBAA.png" alt="Rider" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://www.jetbrains.com/pycharm/">
-    <img src="PyCharm" alt="PyCharm" style="vertical-align:top; margin:4px">
+    <img src="img/PYCHARM_README_LOGO_BOBAA.png" alt="PyCharm" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://code.visualstudio.com/">
-    <img src="Visual Studio Code" alt="Meetup" style="vertical-align:top; margin:4px">
+    <img src="img/VS_CODE_README_LOGO_BOBAA.png" alt="Visual Studio Code" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>
   
   <a href="https://nl.mathworks.com/products/matlab.html">
-    <img src="MATLAB" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+    <img src="img/MATLAB_README_LOGO_BOBAA.png" alt="MATLAB" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>
 
    <a href="https://azure.microsoft.com/en-us/">
-    <img src="Azure" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+    <img src="img/AZURE_README_LOGO_BOBAA.png" alt="Azure" width="130px" height="50px" style="vertical-align:top; margin:4px">
    </a>
   
    <a href="https://avaloniaui.net/">
-    <img src="Avalonia" alt="VS Marketplace" style="vertical-align:top; margin:4px">
+    <img src="img/AVALONIA_README_LOGO_BOBAA.png" alt="Avalonia UI" width="130px" height="50px" style="vertical-align:top; margin:4px">
    </a>
   
   <a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html">
-    <img src="Quartus" alt="CLion" style="vertical-align:top; margin:4px">
+    <img src="img/QUARTUS_README_LOGO_BOBAA.png" alt="Quartus" width="130px" height="50px" style="vertical-align:top; margin:4px">
   </a>  
 </p>
 
