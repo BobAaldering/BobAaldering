@@ -9,7 +9,6 @@ But we stray too much (😊). In my GitHub account you can see which repositorie
 
 I am currently learning the following:
 
-* AVR C/C++ (in combination with the AVR-GCC compiler).
 * ESP32 development.
 * Design principles of operating systems.
 
