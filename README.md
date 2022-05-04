@@ -52,4 +52,4 @@ I use the following tools within my education or projects:
 
 ### Fun facts - ⚡
 
-I love C++ very much! Great for solving hours of research on a complex problem. And by the way, calculating, for example, electrical networks is also interesting!
+I love C++ and C# very much! Great for solving hours of research on a complex problem.
