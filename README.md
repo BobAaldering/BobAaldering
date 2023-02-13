@@ -5,4 +5,4 @@ Within this course you are mainly concerned with electronics that are combined w
 
 In my GitHub account you can see which repositories I have given a [star](https://github.com/BobAaldering?tab=stars). Also take a look at all my [repositories](https://github.com/BobAaldering?tab=repositories).
 
-![Some things I have made](img/about.png)
+<img src="img/about.png"  width="60%" height="30%" alt="About information" style="display: block; margin: 0 auto">
